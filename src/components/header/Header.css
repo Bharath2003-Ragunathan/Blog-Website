@@ -1,0 +1,38 @@
+.header{
+    margin-top: 60px;
+    width: 100%;
+}
+
+.headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Varela", sans-serif;
+    font-weight: 300;
+   
+} 
+
+.headerTitleSm{
+    position: absolute;
+    top: 11%;
+    font-size: 40px;
+    font-weight: 500;
+    margin-right: 130px;
+
+    
+}
+
+.headerTitlelg {
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+    color: #ffff;
+    margin-right: 150px;
+}
+
+.headerImg {
+    width: 100%;
+    height: 450px;
+    margin-top: 30px;
+    object-fit: cover;
+}
